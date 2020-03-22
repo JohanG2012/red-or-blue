@@ -33,5 +33,7 @@ To visualize the test result the dots will change size according to their probab
 
 To visulaize the result the original plot chart is divided into two areas to show where dots would be classified as a red cross. To show this run the script with the option -showResult true
 
+`python index.py -showResult true`
+
 ![result](https://raw.githubusercontent.com/JohanG2012/red-or-blue/master/meta/images/result.png)
 
