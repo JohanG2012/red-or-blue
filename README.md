@@ -6,6 +6,11 @@ A super simple Neural Network which performs binary prediction in order to predi
 
 [Anaconda](https://www.anaconda.com/distribution/)
 
+## Setup
+
+1. Cd to the root folder of the project.
+2. Install the environment by running: `conda env create -f environment.yml`
+
 
 ## How to run
 
